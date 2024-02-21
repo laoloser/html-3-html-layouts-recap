@@ -1,0 +1,24 @@
+span{
+    display: inline-block;
+}
+
+#pic{
+
+}
+
+#mini-layout{
+    display: flex;
+    justify-content:space-evenly;
+    
+    
+}
+
+body{
+    text-align:center;
+    background-image:url(assets/background.jpg);
+}
+
+img{
+    border:2px black solid;
+    border-radius:20px;
+}
